@@ -23,4 +23,5 @@ Files :
 
 ## Ankle Foot Orthosis Model
 
-![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138945773-5bd56f58-fe18-44ed-bec2-d754b8672607.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138945778-084144de-afb1-4e31-9920-869351d580f1.png)
+![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138946187-09946738-4ff6-48e0-8cc5-094755dd7974.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138946193-29d999e5-6663-453d-8f61-eb8bb62f966f.png)
+
