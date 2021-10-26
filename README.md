@@ -7,10 +7,11 @@ The Research Project involves -
 - Prediction of Pressure Points on the leg.
 
 
-KEYWORDS : orthosis, ankle joint, biomechanics, exoskeleton, pistoning, misalignments
+### KEYWORDS
+orthosis, ankle joint, biomechanics, exoskeleton, pistoning, misalignments
 
 
-Files :
+### Files :
   1. AFO_Analysis.xlsx : Excel Dashboard for analysis
   2. MATLAB Files
     2.1 AFO_Graphical_Input.m : MATLAB file for AFO analysis with Graphical Input prompts
@@ -21,7 +22,7 @@ Files :
   4. WMVC 2022 Conference Files
 
 
-## Ankle Foot Orthosis Model
+### Ankle Foot Orthosis Model
 
 ![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138946187-09946738-4ff6-48e0-8cc5-094755dd7974.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138946193-29d999e5-6663-453d-8f61-eb8bb62f966f.png)
 
