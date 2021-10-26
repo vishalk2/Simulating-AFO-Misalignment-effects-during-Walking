@@ -20,6 +20,4 @@ Files :
 
 # Ankle Foot Orthosis
 
-Image-1:
-
-![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138945137-080ed801-b63e-467d-b8f8-3abe6715fcc9.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138945215-7a95f4d1-e198-4f67-bcb2-532764890984.png)
+![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138945773-5bd56f58-fe18-44ed-bec2-d754b8672607.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138945778-084144de-afb1-4e31-9920-869351d580f1.png)
