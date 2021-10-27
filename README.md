@@ -35,10 +35,15 @@ The Research Project involves -
 ### REPO FILES
   1. AFO_Analysis.xlsx : Excel Dashboard for analysis
   2. MATLAB Files
-    ** 2.1 AFO_Graphical_Input.m : MATLAB file for AFO analysis with Graphical Input prompts
-    ** 2.2 AFO_Live_Script.mlx : MATLAB dynamic live script file for AFO analysis
-    ** 2.3 AFO_Manual_Input : MATLAB file for AFO analysis with Manual Input (Typed) prompts
-    ** 2.4 AFO_Simulation : MATLAB file for simulating/calculating relative motions for all 4 cases considered
+  <br>
+    2.1 AFO_Graphical_Input.m : MATLAB file for AFO analysis with Graphical Input prompts
+  <br>
+    2.2 AFO_Live_Script.mlx : MATLAB dynamic live script file for AFO analysis
+  <br>
+    2.3 AFO_Manual_Input : MATLAB file for AFO analysis with Manual Input (Typed) prompts
+  <br>
+    2.4 AFO_Simulation : MATLAB file for simulating/calculating relative motions for all 4 cases considered
+  <br>
   3. Figures & Illustrations
 
 <br>
