@@ -1,15 +1,13 @@
 # Simulating Ankle Joint Misalignments effects in Ankle Foot Orthosis (AFO)
 
-## Contents
-### ABOUT
-### KEYWORDS
-### FILES
-### AFO MODEL
+### Contents
+<a name="custom_anchor_name"></a>
+- About
 
 <br>
 <hr>
 
-### ABOUT
+### [ABOUT](#custom_anchor_name)
 The Research Project involves -
 - Study of "Misalignment effects" between Lower limb structure and an Ankle Foot Orthosis (AFO).
 - 2D Link-segment Mathematical model used to simulate relative motion between the limb and the orthosis for a functional range of ankle motion.
