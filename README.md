@@ -20,7 +20,12 @@ The Research Project involves -
 <hr>
 
 ### KEYWORDS
-orthosis, ankle joint, biomechanics, exoskeleton, pistoning, misalignments
+- orthosis
+- ankle joint
+- biomechanics
+- exoskeleton
+- pistoning
+- misalignments
 
 <br>
 <hr>
