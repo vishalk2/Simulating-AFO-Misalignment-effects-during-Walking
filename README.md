@@ -8,6 +8,7 @@
 
 <br>
 <hr>
+
 ### ABOUT
 The Research Project involves -
 - Study of "Misalignment effects" between Lower limb structure and an Ankle Foot Orthosis (AFO).
