@@ -12,8 +12,9 @@
 ### ABOUT
 The Research Project involves -
 - Study of "Misalignment effects" between Lower limb structure and an Ankle Foot Orthosis (AFO).
-- 2D Link-segment Mathematical model used to simulate relative motion between the limb and the orthosis for a functional range of ankle motion.
-- Estimation of Calf Band Travel and Anterior-Posterior(A-P) & Proximal-Distal(P-D) relative motions.
+- 2D Link-segment Mathematical model used to simulate relative motion taking place between lower limb and the AFO for a functional range of ankle motion.
+- Estimation of Calf Band Travel.
+- Calculations of Anterior-Posterior(A-P) & Proximal-Distal(P-D) relative motions between lower limb and the AFO for a set of 4 test cases.
 - Prediction of Pressure Points on the leg.
 
 <br>
