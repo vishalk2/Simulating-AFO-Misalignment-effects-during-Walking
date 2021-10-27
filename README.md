@@ -1,8 +1,7 @@
 # Simulating Ankle Joint Misalignments effects in Ankle Foot Orthosis (AFO)
 
 ### Contents
-<a name="custom_anchor_name"></a>
-- [About](#customer_anchor_name)
+- [ABOUT](#about)
 
 <br>
 <hr>
