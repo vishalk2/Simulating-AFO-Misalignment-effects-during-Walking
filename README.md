@@ -5,6 +5,7 @@
 - [KEYWORDS](#keywords)
 - [REPO FILES](#repo-files)
 - [AFO MODEL](#afo-model)
+- [Simulation](#simulation)
 
 <br>
 <hr>
@@ -47,5 +48,11 @@ The Research Project involves -
 ### AFO MODEL
 
 ![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/139061305-212b83ea-5bea-44cd-a300-03694d48ab28.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/139061314-103af7e8-727f-40f7-8a0a-109b05d85ad8.png)
+
+<br>
+<hr>
+
+### Simulation
+
 
 
