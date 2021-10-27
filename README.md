@@ -16,10 +16,14 @@ The Research Project involves -
 - Estimation of Calf Band Travel and Anterior-Posterior(A-P) & Proximal-Distal(P-D) relative motions.
 - Prediction of Pressure Points on the leg.
 
+<br>
+<hr>
 
 ### KEYWORDS
 orthosis, ankle joint, biomechanics, exoskeleton, pistoning, misalignments
 
+<br>
+<hr>
 
 ### FILES :
   1. AFO_Analysis.xlsx : Excel Dashboard for analysis
@@ -31,6 +35,8 @@ orthosis, ankle joint, biomechanics, exoskeleton, pistoning, misalignments
   3. Figures & Illustrations
   4. WMVC 2022 Conference Files
 
+<br>
+<hr>
 
 ### AFO MODEL
 
