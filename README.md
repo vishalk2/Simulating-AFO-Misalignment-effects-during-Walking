@@ -31,7 +31,7 @@ The Research Project involves -
 <br>
 <hr>
 
-### REPO FILES :
+### REPO FILES
   1. AFO_Analysis.xlsx : Excel Dashboard for analysis
   2. MATLAB Files
     2.1 AFO_Graphical_Input.m : MATLAB file for AFO analysis with Graphical Input prompts
