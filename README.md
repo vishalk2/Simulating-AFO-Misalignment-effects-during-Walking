@@ -5,7 +5,7 @@
 - [KEYWORDS](#keywords)
 - [REPO FILES](#repo-files)
 - [AFO MODEL](#afo-model)
-- [Simulation](#simulation)
+- [SIMULATION](#simulation)
 
 <br>
 <hr>
@@ -52,7 +52,7 @@ The Research Project involves -
 <br>
 <hr>
 
-### Simulation
+### SIMULATION
 
 
 
