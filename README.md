@@ -46,5 +46,6 @@ The Research Project involves -
 
 ### AFO MODEL
 
-![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/138946187-09946738-4ff6-48e0-8cc5-094755dd7974.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/138946193-29d999e5-6663-453d-8f61-eb8bb62f966f.png)
+![AFO_Fig-1](https://user-images.githubusercontent.com/68963724/139061016-6399acfb-1f3e-4358-9094-8a0f645ec2b2.png),![AFO_Fig-2](https://user-images.githubusercontent.com/68963724/139061020-90be5e49-740a-4384-b9d6-28a788fc5fc3.png)
+
 
