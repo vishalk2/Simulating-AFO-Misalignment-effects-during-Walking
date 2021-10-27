@@ -2,12 +2,12 @@
 
 ### Contents
 <a name="custom_anchor_name"></a>
-- About
+- [About](#customer_anchor_name)
 
 <br>
 <hr>
 
-### [ABOUT](#custom_anchor_name)
+### ABOUT
 The Research Project involves -
 - Study of "Misalignment effects" between Lower limb structure and an Ankle Foot Orthosis (AFO).
 - 2D Link-segment Mathematical model used to simulate relative motion between the limb and the orthosis for a functional range of ankle motion.
