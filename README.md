@@ -1,4 +1,4 @@
-# Simulating Ankle Joint Misalignments effects in Ankle Foot Orthosis (AFO)
+# Modeling Ankle Joint Alignments effects in Ankle Foot Orthosis (AFO)
 
 ### Contents
 - [ABOUT](#about)
