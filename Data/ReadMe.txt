@@ -2,8 +2,9 @@
 
 1. Preferred Walking
 --------------------
--> Follow below ranges for better results
+-> File : "PreferredWalking.xlsx"
 -> Criterion Used: 5 Gait Cycles
+-> Follow below ranges for better results
 
 Subject		Trial		Cell-AX		Cell-BA
 -------		-----		-------		-------
@@ -20,8 +21,8 @@ Subject		Trial		Cell-AX		Cell-BA
 
 2. Stepping Up
 --------------
--> Follow the default range for better results
+-> Follow the default ranges for better results
 
 3. Stepping Down
 ----------------
--> Follow the default range for better results
+-> Follow the default ranges for better results
