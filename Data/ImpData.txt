@@ -19,10 +19,12 @@ Subject		Trial		Cell-AX		Cell-BA
  AB05		  1		866		1461
  AB05		  2		1029		1619
 
-2. Stepping Up
---------------
+2. Stepping Down
+----------------
+-> File : "SteppingDown.xlsx"
 -> Follow the default ranges for better results
 
-3. Stepping Down
-----------------
+3. Stepping Up
+---------------
+-> File : "SteppingUp.xlsx"
 -> Follow the default ranges for better results
