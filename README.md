@@ -5,8 +5,6 @@
 - [ABOUT](#about)
 - [KEYWORDS](#keywords)
 - [REPO FILES](#repo-files)
-- [AFO MODEL](#afo-model)
-- [SIMULATION](#simulation)
 
 <br>
 <hr>
@@ -48,17 +46,7 @@ This Research Work involves -
 * Walking_Results : Zip file consisting of all results from "Walking motion" and all simulation images.
 
 <br>
-<hr>
 
-### AFO MODEL
-
-
-
-
-<br>
-<hr>
-
-### SIMULATION
 
 
 
