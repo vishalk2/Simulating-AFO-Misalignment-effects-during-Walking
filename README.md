@@ -33,12 +33,32 @@ This Research Work involves -
 <hr>
 
 ### REPO FILES
-* AFO_Analysis.xlsx : Excel Dashboard for analysis
-* MATLAB Codes
-   - AFO_Main.m : Program to study/investigate arbitrary or user-entered misalignment effects in an AFO for Walking.
-   - AFO_Main_4Cases.m : Program to study/investigate default (and practically feasible) misalignment cases and their effects during Walking activity.
-* Data
-   - Preferred_Walking.xlsx : Filtered and modified data applied on the model for "Walking motion".
+AFO_Analysis.xlsx
+   * MS Excel file for simulating Gait Analysis on both the legs based on the data of 5 able-bodied individuals.
+   * Provides UI-based dashboard for analysis as well as visually comprehending the misalignment effects.
+   * Feel free to experiment with the dashboard.
+
+<br>
+
+AFO_Main.m
+   * MATLAB Program to analyze the ankle-joint misalignment effects in AFOs during Walking motion and perform Gait Analysis (based on 5 Gait cycles) on both the legs for user-picked misalignment cases.
+   * The data considered is based on the data from 5 able-bodied individuals.
+   * The file is directly runnable and is fully UI-based. The program is capable of prompting the user for 'graphically picked misalignments' as well as 'manually typed misalignments'.
+   * The Gait data chosen
+
+<br>
+
+AFO_Main_4Cases.m
+   * MATLAB Program analyze the ankle-joint misalignment effects in AFOs during Walking motion and perform Gait Analysis (based on 5 Gait cycles) on both the legs for default (and practically feasible) misalignment cases.
+   * The data considered is based on the data from 5 able-bodied individuals.
+   * The file is directly runnable and is UI-based.
+
+<br>
+
+Preferred_Walking.xlsx
+   * Filtered and modified data applied on the model for "Walking motion".
+   * The data consists of 2 trials each for about 5 able-bodied individuals.
+   * Originally published data for the 5 individuals can be found here: 
 
 <br>
 
