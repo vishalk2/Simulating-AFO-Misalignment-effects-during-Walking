@@ -1,6 +1,6 @@
 ## DATA
 
-1. Preferred Walking
+Preferred Walking
 --------------------
 -> File : "PreferredWalking.xlsx"
 -> Criterion Used: 5 Gait Cycles
@@ -18,13 +18,3 @@ Subject		Trial		Cell-AX		Cell-BA
  AB04		  2		1144		1720
  AB05		  1		866		1461
  AB05		  2		1029		1619
-
-2. Stepping Down
-----------------
--> File : "SteppingDown.xlsx"
--> Follow the default ranges for better results
-
-3. Stepping Up
----------------
--> File : "SteppingUp.xlsx"
--> Follow the default ranges for better results
