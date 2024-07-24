@@ -93,6 +93,8 @@ This Research Work involves -
    * Originally published data for the 5 individuals can be found here: https://doi.org/10.1155/2020/8864854
 
 <br>
+<hr>
+<br>
 
 ### JOURNAL PAPER
 
@@ -100,7 +102,5 @@ This Research Work involves -
 
 #### DOI: https://doi.org/10.1016/j.medengphy.2024.104134
 
-<br>
-<hr>
 <br>
 
